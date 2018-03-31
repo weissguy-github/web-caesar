@@ -34,8 +34,7 @@ form = """
                 <br>
 
                 <label>
-                    <textarea name="text">
-                        {0}
+                    <textarea name="text">{0}                        
                     </textarea>
                 </label>
                 <input type="submit" value="Submit Query" />
